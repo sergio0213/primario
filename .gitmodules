@@ -1,3 +1,4 @@
 [submodule "js"]
 	path = js
 	url = https://github.com/sergio0213/segundario.git
+	branch = master
